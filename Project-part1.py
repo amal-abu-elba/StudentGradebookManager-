@@ -1,4 +1,3 @@
-# Name: Amal Ahmed Abu Elba , ID: 220231850 , Section ID: 201 , Subject Name: Programming language (Lab)
 
 
 import numpy as np
@@ -208,9 +207,3 @@ def display_Class_Stats(students, assignments):
 
 
 main_menu()
-
-
- 
-
- # لما ما ادخل علامة طالب لمادة
- # الحذف في ال student و ال assingnment
